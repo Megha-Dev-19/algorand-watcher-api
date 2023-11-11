@@ -51,9 +51,16 @@ GET /tracked-accounts
 
 Retrieve a list of all tracked accounts with their state information.
 
-## Configuration
+## Deployment
 
-No additional configuration is required for basic usage. Ensure that the required dependencies are installed, and the Algorand API is accessible.
+To deploy the Algorand Watcher API, follow these steps:
+
+1. **Choose a Hosting Provider:**
+   - Select a hosting provider such as AWS, Heroku, or DigitalOcean.
+
+2. **Build and Deploy:**
+   - Build and deploy the application to your chosen hosting provider.
+   - Refer to the documentation of your hosting provider for specific deployment instructions.
 
 ## Tests
 
